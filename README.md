@@ -33,7 +33,10 @@ This project is an advanced *AI Chatbot UI* built using *Flutter, designed with 
 
 </table>
 
+<video>
 
+ <source src="[movie.mp4](https://github.com/seifoueslati/RoBoT/blob/main/Files/roBot.mp4)" type="video/mp4">
+</video>
 ---
 
 This project focuses entirely on *UI/UX animations*, ensuring a sleek and futuristic chatbot experience.  
