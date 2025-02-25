@@ -19,9 +19,8 @@ This project is an advanced *AI Chatbot UI* built using *Flutter, designed with 
 - *🤖 AI Assistant Character* – A robotic assistant with unique animations and interactions, making conversations feel more engaging.  
 
 
-### 📸 *Videos *  
-<center>https://github.com/user-attachments/assets/d384e0ce-e6e8-4201-8948-8e378b30f367</center>
- 
+# 📸 *Videos *  
+https://github.com/user-attachments/assets/d384e0ce-e6e8-4201-8948-8e378b30f367
 # 📸 *Screenshots *  
 <table>
   <tr>
