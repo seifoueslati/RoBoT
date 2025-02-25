@@ -20,14 +20,7 @@ This project is an advanced *AI Chatbot UI* built using *Flutter, designed with 
 
 
 ## 📸 *Screenshots and Videos*  
-Add images or videos of your concept here to showcase your design. For example:  
-
-### Tablet Interface  
-https://github.com/user-attachments/assets/5b052a73-d9ff-4a7b-a01e-4301df8b8db9
-
-### Mobile / Smartwatch / Stand Application  
- 
-https://github.com/user-attachments/assets/0fae3242-5d5b-4e7a-b1ec-79bdf5e7b398
+<p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(10).png" ></p><p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(15).png" ></p><p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(3).png" ></p><p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(8).png" ></p>
 
 ---
 
