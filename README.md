@@ -1,5 +1,5 @@
 # RoBoT
-<p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/play_store_512.png" ></p>
+<p align="center"><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/logo.png" ></p>
  
 # ✨ AI Chatbot UI – Advanced Animated Interface  
 
