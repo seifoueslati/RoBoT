@@ -20,7 +20,11 @@ This project is an advanced *AI Chatbot UI* built using *Flutter, designed with 
 
 
 ## 📸 *Screenshots and Videos*  
-<img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(10).png" > <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(15).png" > <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(3).png" > <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(8).png" >
+<table><tr>
+ <th><img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(10).png" ></th>
+ <th> <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(15).png" ></th>
+</tr></table>
+ <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(3).png" > <img src="https://github.com/seifoueslati/RoBoT/blob/main/Files/pic%20(8).png" >
 
 ---
 
